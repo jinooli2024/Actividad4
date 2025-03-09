@@ -1,18 +1,17 @@
-# Actividad4
- Repositorio de prueba creado desde github desktop
- Aqui algunos cambios para probar desktop
- Hola cambio en la ramaprueba
-  Nuevo cambio
-  otro cambio nuevo
+# Proyecto GitHub
 
-  hello
+## Se ha realizado la publicación de un ejemplo nuevo con una cuenta nueva
 
-  Este es un cambio de la rama3 parte 2
+Se ha agregado un nuevo ejemplo con cambios y mejoras. También se ha actualizado el enlace de acceso.
 
+## Cambios realizados
+- Se ha cambiado el link de acceso
+- Se ha mejorado la documentación
+- Se corrigieron errores tipográficos
+- Se añadió una nueva sección de instrucciones
 
-<<<<<<< Updated upstream
-  Este es un cambio para la rama3
-=======
-  Este es un cambio para la rama3
- cambio 4
->>>>>>> Stashed changes
+## Acceso al repositorio
+
+Puedes ver los cambios o descargar los archivos desde el siguiente enlace:
+
+[🔗 Aquí](https://github.com/jinooli2024/examengit){:target="_blank"}

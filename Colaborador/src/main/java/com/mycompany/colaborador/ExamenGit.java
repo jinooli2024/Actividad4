@@ -21,6 +21,7 @@ public class ExamenGit {
         ordenardatos();
         //Metodo que muestra los datos ordenados
         mostrardatos();
+        //nuevos metodos
     }
     
     public static void agregardatos(){
