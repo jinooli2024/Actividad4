@@ -10,9 +10,6 @@
   Este es un cambio de la rama3 parte 2
 
 
-<<<<<<< Updated upstream
   Este es un cambio para la rama3
-=======
   Este es un cambio para la rama3
  cambio 4
->>>>>>> Stashed changes
